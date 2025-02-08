@@ -79,7 +79,7 @@ export default function QuestionsPage() {
   const handleSubmitTest = async () => {
     if (isNextPageEnabled) {
       try {
-        const response = await fetch('http://103.74.95.36/api/score', {
+        const response = await fetch('http://103.74.95.36:5000/api/score', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
