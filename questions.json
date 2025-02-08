@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "question": {
+      "en": "When I play in online fantasy games, I like to:",
+      "uz": "Onlayn fantastik o'yinlarda o'ynaganimda, men...",
+      "ru": "Когда я играю в онлайн-игры в жанре фэнтези, мне нравится:"
+    },
+    "options": [
+      {
+        "en": "Go exploring",
+        "uz": "Kashf qilishga borish",
+        "ru": "Отправиться исследовать"
+      },
+      {
+        "en": "Beat everyone else",
+        "uz": "Hamma boshqalarni yutish",
+        "ru": "Победить всех остальных"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": {
+      "en": "Which is more fun?",
+      "uz": "Qaysi biri qiziqarliroq?",
+      "ru": "Что веселее?"
+    },
+    "options": [
+      {
+        "en": "Hanging out with my friends",
+        "uz": "Do'stlarim bilan vaqt o'tkazish",
+        "ru": "Проводить время с друзьями"
+      },
+      {
+        "en": "Beating my rivals",
+        "uz": "Raqiblarimni yutish",
+        "ru": "Побеждать своих соперников"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": {
+      "en": "When I master a game, I prefer to:",
+      "uz": "O'yinni mukammal o'zlashtirganimda, men ko'proq...",
+      "ru": "Когда я осваиваю игру, я предпочитаю:"
+    },
+    "options": [
+      {
+        "en": "Help newer players learn the ropes",
+        "uz": "Yangi o'yinchilarga o'yinni o'rganishga yordam berish",
+        "ru": "Помогать новичкам освоиться"
+      },
+      {
+        "en": "Crush all challengers",
+        "uz": "Barcha raqiblarni tor-mor etish",
+        "ru": "Сокрушить всех соперников"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": {
+      "en": "In a new online game, I am most likely to:",
+      "uz": "Yangi onlayn o'yinda men ko'proq...",
+      "ru": "В новой онлайн-игре я, скорее всего, буду:"
+    },
+    "options": [
+      {
+        "en": "Try to figure out all the rules of the system",
+        "uz": "Tizimning barcha qoidalarini aniqlashga harakat qilish",
+        "ru": "Пытаться выяснить все правила системы"
+      },
+      {
+        "en": "Go right into the busiest area for some action",
+        "uz": "To'g'ri gavjum joyga borib, harakatga tushish",
+        "ru": "Отправиться прямо в самое оживленное место для действий"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": {
+      "en": "In an online fantasy game, I am most interested in:",
+      "uz": "Onlayn fantastik o'yinda meni eng ko'p qiziqtiradigan narsa:",
+      "ru": "В онлайн-игре в жанре фэнтези меня больше всего интересует:"
+    },
+    "options": [
+      {
+        "en": "Interacting with other players",
+        "uz": "Boshqa o'yinchilar bilan muloqot qilish",
+        "ru": "Взаимодействие с другими игроками"
+      },
+      {
+        "en": "Achieving recognition and status",
+        "uz": "E'tirof va maqomga erishish",
+        "ru": "Достижение признания и статуса"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": {
+      "en": "What is your favorite part of most games?",
+      "uz": "Ko'pgina o'yinlarning eng sevimli qismi nima?",
+      "ru": "Какая ваша любимая часть в большинстве игр?"
+    },
+    "options": [
+      {
+        "en": "The storyline",
+        "uz": "Syujet chizig'i",
+        "ru": "Сюжетная линия"
+      },
+      {
+        "en": "Outwitting other players",
+        "uz": "Boshqa o'yinchilarni aldash",
+        "ru": "Перехитрить других игроков"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": {
+      "en": "My favorite part of playing games online is:",
+      "uz": "Onlayn o'yinlar o'ynashning eng sevimli qismi:",
+      "ru": "Моя любимая часть онлайн-игр - это:"
+    },
+    "options": [
+      {
+        "en": "Working with other players to explore a new and interesting world",
+        "uz": "Yangi va qiziqarli dunyoni o'rganish uchun boshqa o'yinchilar bilan ishlash",
+        "ru": "Работа с другими игроками для исследования нового и интересного мира"
+      },
+      {
+        "en": "Competing with other players and showing that I am better than they are",
+        "uz": "Boshqa o'yinchilar bilan raqobatlashish va ulardan yaxshiroq ekanligimni ko'rsatish",
+        "ru": "Соревнование с другими игроками и демонстрация того, что я лучше их"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": {
+      "en": "When I play games, I prefer to:",
+      "uz": "O'yinlar o'ynaganimda, men ko'proq...",
+      "ru": "Когда я играю в игры, я предпочитаю:"
+    },
+    "options": [
+      {
+        "en": "Play with other people as much as possible",
+        "uz": "Iloji boricha ko'proq boshqa odamlar bilan o'ynash",
+        "ru": "Играть с другими людьми как можно больше"
+      },
+      {
+        "en": "Play by myself and explore the game on my own",
+        "uz": "O'zim o'ynash va o'yinni mustaqil o'rganish",
+        "ru": "Играть в одиночку и исследовать игру самостоятельно"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": {
+      "en": "When I go into a new online game, I am most likely to:",
+      "uz": "Yangi onlayn o'yinga kirganimda, men ko'proq...",
+      "ru": "Когда я захожу в новую онлайн-игру, я, скорее всего, буду:"
+    },
+    "options": [
+      {
+        "en": "Try to make friends",
+        "uz": "Do'st orttirishga harakat qilish",
+        "ru": "Пытаться завести друзей"
+      },
+      {
+        "en": "Try to find targets",
+        "uz": "Nishonlarni topishga harakat qilish",
+        "ru": "Пытаться найти цели"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": {
+      "en": "When I beat other players in an online game, I usually:",
+      "uz": "Onlayn o'yinda boshqa o'yinchilarni yutganimda, men odatda...",
+      "ru": "Когда я побеждаю других игроков в онлайн-игре, я обычно:"
+    },
+    "options": [
+      {
+        "en": "Feel happy because I am contributing to my team",
+        "uz": "Jamoamga hissa qo'shayotganimdan xursand bo'lish",
+        "ru": "Чувствую себя счастливым, потому что вношу вклад в свою команду"
+      },
+      {
+        "en": "Feel pleased with my skill",
+        "uz": "O'z mahoratimdan mamnun bo'lish",
+        "ru": "Чувствую удовлетворение от своего мастерства"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": {
+      "en": "When I am in a group, I prefer to:",
+      "uz": "Guruhda bo'lganimda, men ko'proq...",
+      "ru": "Когда я в группе, я предпочитаю:"
+    },
+    "options": [
+      {
+        "en": "Follow the group's plans",
+        "uz": "Guruhning rejalariga rioya qilish",
+        "ru": "Следовать планам группы"
+      },
+      {
+        "en": "Take charge and tell others what to do",
+        "uz": "Rahbarlikni o'z qo'liga olish va boshqalarga nima qilish kerakligini aytish",
+        "ru": "Брать на себя ответственность и говорить другим, что делать"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": {
+      "en": "When I am in a group, I am usually:",
+      "uz": "Guruhda bo'lganimda, men odatda...",
+      "ru": "Когда я в группе, я обычно:"
+    },
+    "options": [
+      {
+        "en": "Interested in what everyone else has to say",
+        "uz": "Hamma nima deyishiga qiziqish",
+        "ru": "Интересуюсь тем, что говорят другие"
+      },
+      {
+        "en": "Thinking about how I can prove myself",
+        "uz": "O'zimni qanday isbotlashim mumkinligi haqida o'ylash",
+        "ru": "Думаю о том, как я могу себя проявить"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": {
+      "en": "When I am working with a group, I prefer to:",
+      "uz": "Guruh bilan ishlayotganimda, men ko'proq...",
+      "ru": "Когда я работаю в группе, я предпочитаю:"
+    },
+    "options": [
+      {
+        "en": "Make sure everyone is enjoying themselves and getting along",
+        "uz": "Hammaga qiziqarli va ahil bo'lishini ta'minlash",
+        "ru": "Убедиться, что все получают удовольствие и ладят друг с другом"
+      },
+      {
+        "en": "Make sure we are getting things done efficiently",
+        "uz": "Ishlarni samarali bajarayotganimizga ishonch hosil qilish",
+        "ru": "Убедиться, что мы эффективно справляемся с делами"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": {
+      "en": "Which is more important to you in group activities?",
+      "uz": "Guruh faoliyatida siz uchun nima muhimroq?",
+      "ru": "Что для вас важнее в групповой деятельности?"
+    },
+    "options": [
+      {
+        "en": "Making sure everyone has a chance to contribute",
+        "uz": "Hammaga hissa qo'shish imkoniyatiga ega bo'lishini ta'minlash",
+        "ru": "Убедиться, что у каждого есть возможность внести свой вклад"
+      },
+      {
+        "en": "Making sure we finish the job quickly and efficiently",
+        "uz": "Ishni tez va samarali yakunlashimizga ishonch hosil qilish",
+        "ru": "Убедиться, что мы быстро и эффективно завершаем работу"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": {
+      "en": "Which of these statements is more true of you?",
+      "uz": "Qaysi bayonot sizga ko'proq to'g'ri keladi?",
+      "ru": "Какое из этих утверждений больше соответствует действительности о вас?"
+    },
+    "options": [
+      {
+        "en": "I enjoy helping others",
+        "uz": "Men boshqalarga yordam berishdan zavqlanaman",
+        "ru": "Мне нравится помогать другим"
+      },
+      {
+        "en": "I enjoy a good fight",
+        "uz": "Men yaxshi jangdan zavqlanaman",
+        "ru": "Мне нравится хороший бой"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": {
+      "en": "Which would you prefer?",
+      "uz": "Nimani afzal ko'rasiz?",
+      "ru": "Что бы вы предпочли?"
+    },
+    "options": [
+      {
+        "en": "To be part of a group that is harmonious and works well together",
+        "uz": "Ahil va yaxshi ishlaydigan guruhning bir qismi bo'lish",
+        "ru": "Быть частью группы, которая гармонична и хорошо работает вместе"
+      },
+      {
+        "en": "To be in a position of power over other people",
+        "uz": "Boshqa odamlar ustidan hokimiyat mavqeida bo'lish",
+        "ru": "Находиться у власти над другими людьми"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": {
+      "en": "What is more important to you in online games?",
+      "uz": "Onlayn o'yinlarda siz uchun nima muhimroq?",
+      "ru": "Что для вас важнее в онлайн-играх?"
+    },
+    "options": [
+      {
+        "en": "Exploring and learning about the game world",
+        "uz": "O'yin dunyosini o'rganish va bilib olish",
+        "ru": "Исследовать и узнавать об игровом мире"
+      },
+      {
+        "en": "Building a powerful character",
+        "uz": "Kuchli personaj yaratish",
+        "ru": "Создание мощного персонажа"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": {
+      "en": "What do you care about more in online games?",
+      "uz": "Onlayn o'yinlarda sizni ko'proq nima qiziqtiradi?",
+      "ru": "Что вас больше волнует в онлайн-играх?"
+    },
+    "options": [
+      {
+        "en": "Discovering all the hidden areas",
+        "uz": "Barcha yashirin joylarni kashf qilish",
+        "ru": "Открытие всех скрытых областей"
+      },
+      {
+        "en": "Becoming respected",
+        "uz": "Hurmatga sazovor bo'lish",
+        "ru": "Стать уважаемым"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": {
+      "en": "Which is more interesting to you in online games?",
+      "uz": "Onlayn o'yinlarda siz uchun nima qiziqarliroq?",
+      "ru": "Что вам интереснее в онлайн-играх?"
+    },
+    "options": [
+      {
+        "en": "Finding rare and valuable items",
+        "uz": "Noyob va qimmatbaho buyumlarni topish",
+        "ru": "Поиск редких и ценных предметов"
+      },
+      {
+        "en": "Achieving difficult goals",
+        "uz": "Qiyin maqsadlarga erishish",
+        "ru": "Достижение сложных целей"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": {
+      "en": "Which is more exciting to you in online games?",
+      "uz": "Onlayn o'yinlarda siz uchun nima hayajonliroq?",
+      "ru": "Что вас больше всего волнует в онлайн-играх?"
+    },
+    "options": [
+      {
+        "en": "Achieving something that no one else has done before",
+        "uz": "Hech kim oldin qilmagan narsaga erishish",
+        "ru": "Достичь того, чего никто раньше не делал"
+      },
+      {
+        "en": "Gaining levels faster than anyone else",
+        "uz": "Boshqalardan tezroq darajalarga erishish",
+        "ru": "Получать уровни быстрее, чем кто-либо другой"
+      }
+    ]
+  }
+]

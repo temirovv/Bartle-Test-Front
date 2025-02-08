@@ -1,0 +1,21 @@
+{
+    "bartleTest": "BartleTest",
+    "enterNameAge": "Please enter your name and age to begin.",
+    "username": "Username",
+    "password": "Age",
+    "startTest": "Start test",
+    "or": "or",
+    "welcomeTitle": "Welcome to the Bartle Test",
+    "welcomeDescription": "Discover your gaming personality through the Bartle Test, a fun and insightful experience designed to help you understand your player type. Choose your preferred language to begin the journey.",
+    "resultsTitle": "Your Bartle Test Results",
+    "resultsExplorerDescription": "Based on your answers, you have been categorized as an 'Explorer'. You enjoy discovering new things and are always looking for the next big adventure. Below are your detailed results and characteristics:",
+    "characteristics": "Characteristics",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "contactUs": "Contact Us",
+    "progressPage": "Page",
+    "of": "of",
+    "previous": "Previous",
+    "next": "Next",
+    "Your Bartle Type is:": "Your Bartle Type is:"
+}

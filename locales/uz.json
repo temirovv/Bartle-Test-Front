@@ -1,0 +1,21 @@
+{
+    "bartleTest": "BartleTest",
+    "enterNameAge": "Iltimos, ismingizni va yoshingizni kiriting.",
+    "username": "Foydalanuvchi nomi",
+    "password": "Yosh",
+    "startTest": "Testni boshlash",
+    "or": "yoki",
+    "welcomeTitle": "Bartle Testiga xush kelibsiz",
+    "welcomeDescription": "O'yin shaxsiyatingizni Bartle Test orqali kashf eting, bu sizning o'yinchi turini tushunishga yordam beradigan qiziqarli va foydali tajriba. Sayohatni boshlash uchun o'zingizga mos tilni tanlang.",
+    "resultsTitle": "Bartle Test natijalaringiz",
+    "resultsExplorerDescription": "Javoblaringizga ko'ra, siz 'Tadqiqotchi' sifatida tasniflanganingiz. Siz yangi narsalarni kashf qilishdan zavqlanasiz va har doim keyingi katta sarguzashtni qidirasiz. Quyida batafsil natijalaringiz va xususiyatlaringiz keltirilgan:",
+    "characteristics": "Xususiyatlar",
+    "privacyPolicy": "Maxfiylik siyosati",
+    "termsOfService": "Xizmat ko'rsatish shartlari",
+    "contactUs": "Biz bilan bog'lanish",
+    "progressPage": "Sahifa",
+    "of": "dan",
+    "previous": "Oldingi",
+    "next": "Keyingi",
+    "Your Bartle Type is:": "Sizning Bartle turingiz:"
+}
